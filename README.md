@@ -12,6 +12,6 @@ sudo apt-get install freeglut3-dev
 
 how to run it 
 
-g++ 14290068.cpp -lglt -lGLU -lGL -lm
+g++ cubeanimation.cpp -lglt -lGLU -lGL -lm
 
 ./a.out
